@@ -30,3 +30,7 @@ terraform graph
 ### Questions
 
 1. How are environment variables being set or inferred (export ...), how does tf know where my remote backend is?
+
+### Sources
+
+- https://medium.com/@mike.ensor/terraform-developers-tips-tricks-d5c4be14a553
